@@ -11,7 +11,7 @@ import CustomerList from "./customer/CustomerList"
 import { CustomerProvider } from "./customer/CustomerProvider"
 import AnimalList from "./animal/AnimalList"
 import { AnimalProvider } from "./animal/AnimalProvider"
-import "./Kennel.css"
+import "./Dashboard.css"
 
 
 
