@@ -4,7 +4,6 @@ import LocationList from "./location/LocationList"
 import { EmployeeProvider } from "./employee/EmployeeProvider"
 import EmployeeList from "./employee/EmployeeList"
 import { AnimalProvider } from "./animal/AnimalProvider"
-import AnimalList from "./animal/AnimalList"
 import { CustomerProvider } from "./customer/CustomerProvider"
 import CustomerList from "./customer/CustomerList"
 import { SearchBar } from "./search/SearchBar"
@@ -29,7 +28,6 @@ export default () => {
                                 <h2>Nashville Kennels</h2>
                                 <small>Loving care when you're not there.</small>
                                 <LocationList />
-                                <AnimalList />
                                 <CustomerList />
                                 <EmployeeList />
                             </div>
